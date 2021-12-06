@@ -1,0 +1,215 @@
+<pre class='metadata'>
+Title: 2021 December Library Evolution Polls
+Shortname: D2456
+Revision: 0
+Status: D
+Group: WG21
+Audience: WG21
+Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
+URL: https://wg21.link/P2456
+!Source: <a href="https://github.com/brycelelbach/wg21_p2456_2021_december_library_evolution_polls/blob/main/2021_december_library_evolution_polls.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2456_2021_december_library_evolution_polls/issues
+Metadata Order: Editor, Source, Issue Tracking, Project, Audience
+Markup Shorthands: markdown yes
+Toggle Diffs: no
+No Abstract: yes
+Boilerplate: style-syntax-highlighting off
+</pre>
+
+# Introduction # {#introduction}
+
+This paper contains the decision polls that the C++ Library Evolution group
+  will take in December of 2021.
+
+# Voting # {#voting}
+
+These decision polls will be conducted electronically; see [[P2195R2]] for
+  more information on electronic voting procedures.
+
+All committee members may vote, but if you have not participated in the Library
+  Evolution discussions of a poll, please choose to not vote.
+
+## How to Vote ## {#how-to-vote}
+
+<b><a href="https://documents.isocpp.org/index.php/apps/forms/HyTMtXnQxP4oydNy">Vote here</a></b>
+
+A documents.isocpp.org account is necessary to vote.
+If you have an isocpp.org/papers account, a documents.isocpp.org account has
+  been created for you.
+Just go to documents.isocpp.org and reset your password.
+Email <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a> if you
+  do not have an account or are having trouble accessing your account.
+
+If you see "Form not found" when you go to the above link, you are not signed
+  in to documents.isocpp.org.
+Go to documents.isocpp.org and sign in first.
+
+You will not receive a confirmation email after voting.
+The Library Evolution chairs will send a confirmation to all voters before the
+  close of the poll.
+
+If you need to change how you voted or have any questions or issues about
+  voting, please email
+  <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a>.
+
+## Voting Timeline ## {#voting-timeline}
+
+- 2021-12-06: Draft polls distributed by mailing list.
+- 2021-12-07: Final Library Evolution discussion telecon on the polls.
+- 2021-12-08: Start of the polling period.
+- 2022-01-07: End of the polling period.
+- 2022-01-11: Chairs share results and summarize outcomes.
+
+# Polls # {#poll}
+
+Each poll consists of a statement; you vote on whether you support the
+  statement.
+All polls will be 5-way polls; you'll vote either "strongly favor",
+  "weakly favor", "neutral", "weakly against", or "strongly against".
+
+All committee members may vote, but if you have not participated in the
+  Library Evolution discussions of a poll (in-person, over telecon, or
+  over email), please consider whether you sufficiently understand the
+  topic to be able to vote in an informed manner.
+If you do not, please choose to not participate in the poll.
+
+If you do not want to participate in a poll, select the "I do not want to
+  participate in this poll" option.
+Those who do not participate in a poll will not be counted or recorded.
+Voting neutral is not the same as choosing to not participate; please
+  don't vote neutral if you did not participate in the discussions of
+  the poll.
+
+Each poll has a comment field.
+Please write a few sentences explaining the rationale for your vote.
+We recommend drafting your comments in a text editor and then pasting them
+  into the polling system.
+
+Poll results and selected comments will be shared with Library Evolution after
+  the end of the polling period, including attribution of your votes and
+  comments.
+
+If you want to discuss the polls or how you plan on voting, please start an
+  email thread on the
+  <a href="lib-ext@lists.isocpp.org">Library Evolution mailing list</a>.
+
+You will not receive a confirmation email after voting.
+
+If you need to see how you voted, change how you voted, or have any questions
+  or issues about voting, please contact the Library Evolution chair.
+
+## Poll 1: [[P0009R14]] `mdspan` ## {#poll-1}
+
+Send
+  [[P0009R14]] (`mdspan`)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 2: [[P2093R11]] Formatted Output ## {#poll-2}
+
+Send
+  [[P2093R11]] (Formatted Output)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 3: [[P1467R7]] Extended Floating-Point Types ## {#poll-3}
+
+Send
+  [[P1467R7]] (Extended Floating-Point Types)
+  to Evolution Working Group and Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 4: [[P2278R2]] `cbegin` Should Always Return A Constant Iterator ## {#poll-4}
+
+Send
+  [[P2278R2]] (`cbegin` Should Always Return A Constant Iterator)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+## Poll 5: [[P2408R4]] Ranges Views As Inputs To Non-Ranges Algorithms ## {#poll-5}
+
+Send
+  [[P2408R4]] (Ranges Views As Inputs To Non-Ranges Algorithms)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+## Poll 6: [[P2374R3]] `views::cartesian_product` ## {#poll-6}
+
+Send
+  [[P2374R3]] (`views::cartesian_product`)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 7: [[P2441R1]] `views::join_with` ## {#poll-7}
+
+Send
+  [[P2441R1]] (`views::join_with`)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 8: [[P2446R1]] `views::all_move` ## {#poll-8}
+
+Send
+  [[P2446R1]] (`views::all_move`)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 9: [[P2467R0]] Support Exclusive Mode For `fstream`s ## {#poll-9}
+
+Send
+  [[P2467R0]] (Support Exclusive Mode For `fstream`s)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 10: [[P2438R1]] `string::substr() &&` ## {#poll-10}
+
+Send
+  [[P2438R1]] (`string::substr() &&`)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+## Poll 11: [[P2396R0]] Concurrency TS 2 Fixes ## {#poll-11}
+
+Send
+  [[P2396R0]] (Concurrency TS 2 Fixes)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 12: [[P2198R3]] Freestanding Feature-Test Macros And Implementation-Defined Extensions C++23 ## {#poll-12}
+
+Adopt the freestanding feature test macro policy from
+  [[P2198R3]] (Freestanding Feature-Test Macros And Implementation-Defined Extensions C++23).
+
+
+
+<pre class=biblio>
+{
+  "P2093R11": {
+    "authors": [
+      "Victor Zverovich"
+    ],
+    "href": "https://wg21.link/P2093R11",
+    "title": "Formatted output",
+    "date": "2021-11-29"
+  },
+  "P2374R3": {
+    "authors": [
+      "Sy Brand",
+      "Michał Dominiak"
+    ],
+    "href": "https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/brycelelbach/wg21_p2374_cartesian_product/R3/cartesian_product.bs",
+    "title": "views::cartesian_product",
+    "date": "2021-12-06"
+  },
+  "P2438R1": {
+    "authors": [
+      "Federico Kircheis",
+      "Tomasz Kamiński"
+    ],
+    "href": "https://wg21.link/P2438R1",
+    "title": "string::substr() &&",
+    "date": "2021-11-30"
+  }
+}
+</pre>
+
