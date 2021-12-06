@@ -190,7 +190,7 @@ Adopt the freestanding feature test macro policy from
     ],
     "href": "https://wg21.link/P2093R11",
     "title": "Formatted output",
-    "date": "2021-11-29"
+    "date": "2021-12-06"
   },
   "P2374R3": {
     "authors": [
