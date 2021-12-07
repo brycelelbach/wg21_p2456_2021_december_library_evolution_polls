@@ -126,10 +126,10 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-## Poll 5: [[P2408R4]] Ranges Views As Inputs To Non-Ranges Algorithms ## {#poll-5}
+## Poll 5: [[P2408R4]] Ranges Iterators As Inputs To Non-Ranges Algorithms ## {#poll-5}
 
 Send
-  [[P2408R4]] (Ranges Views As Inputs To Non-Ranges Algorithms)
+  [[P2408R4]] (Ranges Iterators As Inputs To Non-Ranges Algorithms)
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
@@ -168,11 +168,11 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-## Poll 11: [[P2396R0]] Concurrency TS 2 Fixes ## {#poll-11}
+## Poll 11: [[P2396R0]] Concurrency TS v2 Fixes ## {#poll-11}
 
 Send
-  [[P2396R0]] (Concurrency TS 2 Fixes)
-  to Library Working Group for C++23,
+  [[P2396R0]] (Concurrency TS v2 Fixes)
+  to Library Working Group for the Concurrency TS v2,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
 ## Poll 12: [[P2198R3]] Freestanding Feature-Test Macros And Implementation-Defined Extensions C++23 ## {#poll-12}
