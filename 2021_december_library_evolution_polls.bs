@@ -1,8 +1,8 @@
 <pre class='metadata'>
 Title: 2021 December Library Evolution Polls
-Shortname: D2456
+Shortname: P2456
 Revision: 0
-Status: D
+Status: P
 Group: WG21
 Audience: WG21
 Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
@@ -14,6 +14,7 @@ Markup Shorthands: markdown yes
 Toggle Diffs: no
 No Abstract: yes
 Boilerplate: style-syntax-highlighting off
+Default Biblio Display: direct
 </pre>
 
 # Introduction # {#introduction}
